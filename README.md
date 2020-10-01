@@ -4,7 +4,7 @@
 
 I used to think to myself, "I can in no way relate to those people who wake up everyday and are excited to get to work. Could that even be possible for me?"</P>
 _Then I started iOS Developement through Lambda School_</P>
-Immersing myself in the curriculum and the code, I still find myself waking up in the morning and thinking, "hmmmm, I think I know how to solve that!"
+Immersing myself in the curriculum and the code, I still find myself waking up in the morning and thinking, "hmmmm, I have an idea how to solve that!"
 
 
 <!--
