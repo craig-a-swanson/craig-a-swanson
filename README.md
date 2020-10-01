@@ -1,4 +1,4 @@
-### Hi, I'm Craig 🤙🏼
+### Hi, I'm Craig 👨‍💻
 
 #### I'm a career changer, transitioning from a decade or so in investment management to (my true calling) software development.
 
